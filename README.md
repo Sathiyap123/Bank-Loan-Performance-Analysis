@@ -36,9 +36,13 @@ Prediction: Final output for house price estimation
 🛠 Features
 
 📌 Data Cleaning and Preprocessing
+
 📌 Exploratory Data Analysis (EDA)
+
 📌 Multiple Machine Learning Models (Linear Regression, etc.)
+
 📌 Model Evaluation and Comparison
+
 📌 Accurate Price Prediction
 
 📸 Screenshots
