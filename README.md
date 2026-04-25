@@ -1,4 +1,5 @@
 🏠 House Price Prediction
+
 📊 Overview
 
 This project predicts house prices based on various features such as location,
@@ -8,7 +9,7 @@ size, number of bedrooms, and other property-related factors using Machine Learn
 
 Clone the Repository:
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Sathiyap123/HOUSE-PRICE-PREDICTION.git
 cd house-price-prediction
 Requirements:
 Python 3.8+
@@ -23,9 +24,13 @@ Open the .ipynb file in Jupyter Notebook or Colab and execute all cells.
 📁 Project Structure
 
 Dataset: Contains housing data used for training and testing
+
 Data Preprocessing: Cleaning, handling missing values, feature scaling
+
 Model Building: Implementation of regression algorithms
+
 Evaluation: Performance metrics like MAE, MSE, and R² score
+
 Prediction: Final output for house price estimation
 
 🛠 Features
